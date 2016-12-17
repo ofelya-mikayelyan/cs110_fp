@@ -1,0 +1,74 @@
+#body{
+	font-family: Georgia;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    background-image: url("raisin.jpg");
+    background-opacity: 0.2;
+    background-size: 500px 500px;
+      
+
+}
+
+#menu{
+	float: left;
+	width: 250px;
+	text-align : center;
+	background-color: #21ac4d;;
+	color: white;
+	font-size: 25px;
+	position: fixed;
+	
+}
+.menu {
+	width : 250px;
+	background-color: #21ac4d;
+	color:white;
+	font-family: Georgia;
+	height: 40px;
+	font-size: 16px;
+	
+}
+
+#info{
+	width: 900px;
+	margin-left: 300px;
+	margin-top: 100px;
+	
+}
+
+table{
+	border-collapse: collapse;
+}
+td,th{
+	width: 200px;
+	text-align: left;
+	border-bottom: 1px solid black;
+	height: 30px;
+}
+th{
+	background-color: #21ac4d;
+	color:white;
+}
+
+#amount{
+    width: 150px;
+}
+span{
+	color: #21ac4d;
+}
+
+#bmicalc{
+	position: relative;
+	margin-top: 50px;
+	width: 450px;
+}
+#category{
+	position: static;
+	float: right;
+	width: 450px;
+}
+#calcalc{
+	position: relative;;
+	margin-top: 100px;
+}
